@@ -1,0 +1,14 @@
+# train: ../train/images
+# val: ../valid/images
+# test: ../test/images
+
+train: ../../datasets/BSFDataset/train/images
+val: ../../datasets/BSFDataset/valid/images
+test: ../../datasets/BSFDataset/test/images
+
+# /home/bia111009/code/ultralytics-mod
+# /home/bia111009/datasets/BSFDataset
+
+
+nc: 6
+names: ['larva_1', 'larva_2', 'larva_3', 'larva_4', 'larva_5', 'larva_6']

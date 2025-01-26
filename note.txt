@@ -1,0 +1,28 @@
+ Model Path:
+ ultralytics/cfg/models/mod/yoloMod.yaml
+ 
+ #You can run this relative path from base project path
+ #You can also use scale n,s,m,l,x for parameter size
+ yolo train data=coco8.yaml model=./ultralytics/cfg/models/mod/yoloModn.yaml epochs=10 lr0=0.01  
+ yolo train data=coco8.yaml model=yolo11n.yaml epochs=10 lr0=0.01  
+
+ #Testing
+ yolo train data=coco8.yaml model=yolo11n.pt epochs=10 lr0=0.01
+ yolo train data=coco8.yaml model=./ultralytics/cfg/models/mod/yoloModn.yaml epochs=10 lr0=0.01 device=[0]
+
+ yolo train data=./data.yaml model=./ultralytics/cfg/models/mod/yoloModn.yaml  name=yoloModx-lavar-yaml epochs=200 batch=16 imgsz=640 device=[0]
+ 
+ yolo train data=./data.yaml model=yolo11n.yaml  name=yoloModn-lavar-yaml epochs=200 batch=16 imgsz=640 device=[0]
+
+ Change block-part
+ DSConv
+ C3k2DSC
+ SPPFDSC
+ C2PSADSC
+ DSCDetect
+
+
+ #Activate conda enviroment
+ conda activate ultralytics-mod
+
+
