@@ -23,6 +23,7 @@ We employed the **YOLO11** model for larval instar classification and detection,
 - **Supplementary Materials:**  
   - [Server Side (API)](https://github.com/cyn-jackal/YOLO-server-API)  
   - [Mobile Application](https://github.com/cyn-jackal/larva_detector_app_v3)
+  - [Datasets](https://universe.roboflow.com/national-pingtung-university/black-soldier-fly-larvae-5natt)
 
 ---
 
