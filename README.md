@@ -7,19 +7,6 @@
 **Table of Contents**
 1. [Abstract](#abstract)
 2. [Features](#features)
-3. [Repository Structure](#repository-structure)
-4. [Installation and Setup](#installation-and-setup)
-5. [Training](#training)
-6. [Evaluation](#evaluation)
-7. [Usage](#usage)
-8. [Performance and Results](#performance-and-results)
-9. [Mobile Application & API](#mobile-application--api)
-10. [Contributing](#contributing)
-11. [License](#license)
-12. [Citation](#citation)
-13. [Acknowledgments](#acknowledgments)
-14. [Contact](#contact)
-
 ---
 
 ## Abstract
