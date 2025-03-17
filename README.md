@@ -40,7 +40,7 @@ We employed the **YOLO11** model for larval instar classification and detection,
 
 ---
 
-## Features
+## How to!
 
 -   **How to run the project**
 
