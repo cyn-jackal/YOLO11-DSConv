@@ -54,7 +54,7 @@ We employed the **YOLO11** model for larval instar classification and detection,
 3. **How to train model**:
 
 ```
-    yolo train data=your_data_path_in_dot_yaml_type model=./ultralytics/cfg/models/mod/yoloModx.yaml  name=your_model_name epochs=200 batch=16 imgsz=640 device=[0]
+  yolo train data=your_data_path_in_dot_yaml_type model=./ultralytics/cfg/models/mod/yoloModx.yaml  name=your_model_name epochs=200 batch=16 imgsz=640 device=[0]
 ```
 If you have multi-GPU for train use device=[0,1]
 
