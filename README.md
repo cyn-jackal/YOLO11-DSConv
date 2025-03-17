@@ -17,7 +17,7 @@ This study introduces a **mobile application** designed for the **automatic iden
 1. **Instars 1 to 4** — Best suited for food waste processing and animal feed production.  
 2. **Instars 5 to 6** — Optimal for pupation and other industrial applications.
 
-We employed the **YOLO11** model for larval instar classification and detection, achieving an **mAP<sub>50-95</sub> of 0.811**. Furthermore, we developed a modified **YOLO11-DSConv** variant, which replaces standard convolution with **Depthwise Separable Convolution (DSConv)**. This modification increased the **mAP<sub>50-95</sub>** to **0.813** and enhanced computational efficiency. By integrating this system, the application of BSFL in food waste management and broader circular economy initiatives can be significantly improved, offering a more effective and intelligent approach to addressing global food waste challenges.
+We employed the **YOLO11** model for larval instar classification and detection, achieving an **mAP<sub>50-95</sub> of 0.811**. Furthermore, we developed a modified **YOLO11-DSConv** variant, which replaces standard convolution with **Depthwise Separable Convolution (DSConv)**. This modification result the **mAP<sub>50-95</sub>** to **0.813** and enhanced computational efficiency. By integrating this system, the application of BSFL in food waste management and broader circular economy initiatives can be significantly improved, offering a more effective and intelligent approach to addressing global food waste challenges.
 
 - **Repository Link:** [YOLO11-DSConv](https://github.com/cyn-jackal/YOLO11-DSConv)  
 - **Supplementary Materials:**  
