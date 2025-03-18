@@ -6,7 +6,7 @@
 
 ![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
-[![Ultralytics YOLO](https://img.shields.io/badge/Built%20With-Ultralytics%20YOLO-orange)](https://docs.ultralytics.com/)
+[![Ultralytics YOLO](https://img.shields.io/badge/Built%20With-Ultralytics%20YOLO-orange)](https://github.com/ultralytics/ultralytics)
 <!-- [![DOI](https://zenodo.org/badge/922564139.svg)](https://doi.org/10.5281/zenodo.15041711) -->
 
 **Table of Contents**
@@ -41,12 +41,12 @@ We employed the **YOLO11** model for larval instar classification and detection,
 -   **Enhanced Convolution**: Utilizes **Depthwise Separable Convolution (DSConv)** for improved efficiency.
 -   **High Accuracy**: Achieves **mAP<sub>50-95</sub> up to 0.813** while maintaining real-time performance.
 -   **Resource-Friendly**: Suitable for mobile and embedded applications in resource-constrained environments.
--   **Open Source**: Built on [Ultralytics YOLO](https://docs.ultralytics.com/) for a robust detection framework.
+-   **Open Source**: Built on [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) for a robust detection framework.
 
 ---
 
 ## Acknowledgement
-The code base is built with [Ultralytics YOLO](https://docs.ultralytics.com/).
+The code base is built with [Ultralytics YOLO](https://github.com/ultralytics/ultralytics).
 
 Thanks for the great implementations!
 ---
