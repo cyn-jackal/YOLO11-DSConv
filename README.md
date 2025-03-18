@@ -7,7 +7,7 @@
 ![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
 [![Ultralytics YOLO](https://img.shields.io/badge/Built%20With-Ultralytics%20YOLO-orange)](https://docs.ultralytics.com/)
-[![DOI](https://zenodo.org/badge/922564139.svg)](https://doi.org/10.5281/zenodo.15041711)
+<!-- [![DOI](https://zenodo.org/badge/922564139.svg)](https://doi.org/10.5281/zenodo.15041711) -->
 
 **Table of Contents**
 
