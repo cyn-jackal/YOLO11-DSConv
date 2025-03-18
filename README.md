@@ -45,7 +45,7 @@ We employed the **YOLO11** model for larval instar classification and detection,
 
 ---
 
-## Features
+## Acknowledgement
 The code base is built with [Ultralytics YOLO](https://docs.ultralytics.com/).
 
 Thanks for the great implementations!
