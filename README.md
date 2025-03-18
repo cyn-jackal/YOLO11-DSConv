@@ -1,7 +1,9 @@
-# YOLO11-DSConv: A Detection Framework for Black Soldier Fly Larvae in Agricultural Applications
-<!-- # Enhanced Real-Time Object Detection for Black Soldier Fly Larvae Classification Using YOLO11-DSConv -->
+<!-- # YOLO11-DSConv: A Detection Framework for Black Soldier Fly Larvae in Agricultural Applications -->
+
+# Enhanced Real-Time Object Detection for Black Soldier Fly Larvae Classification Using YOLO11-DSConv
 
 <!-- ![License](https://img.shields.io/badge/License-MIT-blue.svg) -->
+
 ![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)
 [![Ultralytics YOLO](https://img.shields.io/badge/Built%20With-Ultralytics%20YOLO-orange)](https://docs.ultralytics.com/)
@@ -59,6 +61,21 @@ We employed the **YOLO11** model for larval instar classification and detection,
 ```
   yolo train data=your_data_path_in_dot_yaml_type model=./ultralytics/cfg/models/mod/yoloModx.yaml  name=your_model_name epochs=200 batch=16 imgsz=640 device=[0]
 ```
+
 If you have multi-GPU for train use device=[0,1]
 
 ---
+
+## Citation
+
+If our code or models help your work, please cite our paper:
+
+```
+  @article{Pookunngern2025yolo11dsconv,
+    author = {An-Chao Tsai, Chayanon Pookunngern},
+    title = {Enhanced Real-Time Object Detection for Black Soldier Fly Larvae Classification Using YOLO11-DSConv},
+    journal = {The Visual Computer},
+    year = {2025},
+    note = {In press}
+}
+```
